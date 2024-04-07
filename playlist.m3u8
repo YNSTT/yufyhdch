@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://sky4k.ga/BERNAMA_SKY4K/assets/moose_na.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712477855/ei/PwISZq3-J6uZy_sP-_-AwAs/ip/20.49.54.2/id/Q76gKRasL0w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-p5qs7nsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7B6RjanMvbxdufRV8LBt2M5YMSIsiu64vaJfn8rX4iAFkg3rogmP6EU/vprv/1/playlist_type/DVR/mh/Bp/mm/44/mn/sn-p5qs7nsk/ms/lva/mv/u/mvi/3/pl/19/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1712454844/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAK1h7g2UQx61XQrzwq-GbN0cLT7Xcu-LDTa8N4deJr2SAiBLui0tm8xeh1E-2E9Sc6NhGnHpX9lxNxDTMST6izQZfA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAKWAmlQWuZ5nDLTX1r3NAyX-tXWxoE3p5fuCCb1VA6_bAiBmmRSMkcJlpSo3BEgvnpbTGAxY41puk4pjLXriNX0Pxg%3D%3D/playlist/index.m3u8
